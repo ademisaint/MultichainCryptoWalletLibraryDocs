@@ -1,11 +1,10 @@
 # Table of content
 
-* [Overview]
+* [Overview](OVERVIEW.md)
 
 ## Getting Started
 
-* [G]
-  * [Introduction](GETTINGSTARTED/multichaincryptowallet.md)
+* [Introduction](GETTINGSTARTED/multichaincryptowallet.md)
 * [Installation](GETTINGSTARTED/installation.md)
 * [USAGE](GETTINGSTARTED/USAGE.md)
 
@@ -27,5 +26,5 @@
     * [WavesNetwork](Transfer/WavesNet.md)
   * [Encryptions](Encryptions/)
     * [EncryptPrivateKey](Encryptions/EncryptPrivateKey.md)
-     * [DecryptEncryptedJSON](Encryptions/DecryptEncryptedJSON.md)
+    * [DecryptEncryptedJSON](Encryptions/DecryptEncryptedJSON.md)
   * [TokenInfo]
