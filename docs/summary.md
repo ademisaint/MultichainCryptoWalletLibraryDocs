@@ -1,9 +1,6 @@
-# Table of content
+# Getting Started
 
-* [Overview]
-
-## Getting Started
-
+* [Overview](OVERVIEW.md)
 * [Introduction](GETTINGSTARTED/multichaincryptowallet.md)
 * [Installation](GETTINGSTARTED/installation.md)
 * [USAGE](GETTINGSTARTED/USAGE.md)
