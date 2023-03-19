@@ -1,6 +1,6 @@
 # Table of content
 
-* [Overview](OVERVIEW.md)
+* [Overview]
 
 ## Getting Started
 
@@ -8,23 +8,22 @@
 * [Installation](GETTINGSTARTED/installation.md)
 * [USAGE](GETTINGSTARTED/USAGE.md)
 
-## Endpoints
+## METHODS
 
-* [METHODS]
-  * [generateMnemonic](generateMnemonic.md)
-  * [createWallet](createWallet/createwallet.md)
-  * [getBalance](GetBalance/GetBalance.md)
-    * [nativeCoins](GetBalance/NativeCoins.md)
-    * [Tokens](GetBalance/Tokens.md)
-  * [generateWalletFromMnemonic](generateWalletFromMnemonic/generateWalletFromMnemonic.md)
-  * [getAddressFromPrivateKey](METHODS/getAddressFromPrivateKey/getAddressFromPrivateKey.md)
-  * [getTransaction](METHODS/getTransaction/getTransaction.md)
-  * [transfer](Transfer/Transfer.md)
-    * [EthereumNetwork](Transfer/EthereumNet.md)
-    * [BitcoinNetwork](Transfer/BitcoinNet.md)
-    * [SolanaNetwork](Transfer/SolanaNet.md)
-    * [WavesNetwork](Transfer/WavesNet.md)
-  * [Encryptions](Encryptions/)
-    * [EncryptPrivateKey](Encryptions/EncryptPrivateKey.md)
-    * [DecryptEncryptedJSON](Encryptions/DecryptEncryptedJSON.md)
-  * [TokenInfo]
+* [generateMnemonic](METHODS/generateMnemonic.md)
+* [createWallet](METHODS/createWallet/createwallet.md)
+* [getBalance](METHODS/GetBalance/GetBalance.md)
+  * [nativeCoins](METHODS/GetBalance/NativeCoins.md)
+  * [Tokens](METHODS/GetBalance/Tokens.md)
+* [generateWalletFromMnemonic](METHODS/generateWalletFromMnemonic/generateWalletFromMnemonic.md)
+* [getAddressFromPrivateKey](METHODS/getAddressFromPrivateKey/getAddressFromPrivateKey.md)
+* [getTransaction](METHODS/getTransaction/getTransaction.md)
+* [transfer](METHODS/Transfer/Transfer.md)
+  * [EthereumNetwork](METHODS/Transfer/EthereumNet.md)
+  * [BitcoinNetwork](METHODS/Transfer/BitcoinNet.md)
+  * [SolanaNetwork](METHODS/Transfer/SolanaNet.md)
+  * [WavesNetwork](METHODS/Transfer/WavesNet.md)
+* [Encryptions](METHODS/Encryptions/)
+  * [EncryptPrivateKey](METHODS/Encryptions/EncryptPrivateKey.md)
+  * [DecryptEncryptedJSON](METHODS/Encryptions/DecryptEncryptedJSON.md)
+* [TokenInfo]
