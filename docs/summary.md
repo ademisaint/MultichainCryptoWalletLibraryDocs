@@ -1,5 +1,3 @@
-# Getting Started
+# Table of contents
 
-* [Overview](OVERVIEW.md)
-
-## METHODS
+* [WELCOME](README.md)
