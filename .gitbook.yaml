@@ -1,4 +1,4 @@
-root: ./main/
+root: ./docs/
 
 ​structure:  
     readme: OVERVIEW.md  
